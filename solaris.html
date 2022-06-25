@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+     <title>9ekaitz - Solaris</title>
+    <meta charset="utf-8" />
+    <meta name="generator" content="Pelican" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/x-icon" href="/theme/images/icon.png" />
+    <link rel="stylesheet" href="/theme/css/util/spectral.css" />
+    <link rel="stylesheet" href="/theme/css/main.css" />
+        
+<link rel="stylesheet" href="/theme/css/util/devicon.css" />  
+<link rel="stylesheet" href="/theme/css/module/project.css" />
+<link rel="stylesheet" href="/theme/css/module/project_info.css" />
+      <link rel="alternate" hreflang="eu" href="http://127.0.0.1:8000/eu/solaris.html">
+   <meta name="tags" content="pbl" />
+<meta name="tags" content="team-work" />
+   </head>
+
+  <body id="index" class="home">
+    <nav class="main-nav">
+      <div class="wrap">
+        <div class="nav-left">
+          <div class="web-logo-wrapper">
+            <a href="http://127.0.0.1:8000" class="nav-item web-logo"
+              ><img class="logo" src="/theme/images/logo.svg" />
+              <p class="name"><span class="decoration">9</span>ekaitz</p></a
+            >
+            <label for="toggle-checkbox" id="nav-toggle"
+              ><svg id="toggle-icon-menu" viewBox="0 0 24 24">
+                <path
+                  fill="currentColor"
+                  d="M3,6H21V8H3V6M3,11H21V13H3V11M3,16H21V18H3V16Z"
+                /></svg
+            ></label>
+          </div>
+          <input
+            id="toggle-checkbox"
+            class="toggle-checkbox"
+            type="checkbox"
+            checked
+          />
+          <a href="http://127.0.0.1:8000/parking" class="nav-item"
+            ><span class="nav-item-content"
+              > PROJECTS </span
+            ></a
+          >
+          <a href="http://127.0.0.1:8000/parking" class="nav-item"
+            ><span class="nav-item-content"
+              >ARTICLES</span
+            ></a
+          >
+          <a href="http://127.0.0.1:8000/parking" class="nav-item"
+            ><span class="nav-item-content"
+              >ABOUT</span
+            ></a
+          >
+          <div class="nav-item lang-selector">
+            <span class="nav-item-content">
+              <a
+                href="http://127.0.0.1:8000/solaris.html"
+                class="lang left current"
+                ><span>en</span></a
+              ><a
+                href="http://127.0.0.1:8000/eu/solaris.html"
+                class="lang right "
+                ><span>eu</span></a
+              >
+            </span>
+          </div>
+        </div>
+      </div>
+    </nav>
+<main class="main wrap">
+  <div class="helper">
+    <a href="/">Home</a> > <a href="/category/project">Projects</a> >
+    <a href="">Solaris</a>
+  </div>
+  <section class="container">
+    <h2 class="container-title">
+      <a href="http://127.0.0.1:8000/solaris.html">Solaris</a>
+    </h2>
+<article class="project">
+  <img class="project-icon" src="/images/solaris.png" />
+  <div class="info-header">  <div class="info-summary"><p>An online platform for the purchase and managment of solar panels</p></div>
+
+  <div class="metadata">
+  <address class="vcard author">
+    By     <a class="url fn" href="http://127.0.0.1:8000/author/9ekaitz.html"
+      >9ekaitz</a
+    >
+  </address>
+  <p>
+Category: 
+    <a href="http://127.0.0.1:8000/category/project.html"
+      >Project</a
+    >.
+  </p>
+  <p>
+Tags: <a
+      href="http://127.0.0.1:8000/tag/pbl.html"
+      >pbl</a
+    >
+<a
+      href="http://127.0.0.1:8000/tag/team-work.html"
+      >team-work</a
+    >
+  </p>
+  <p class="source-info">
+Source code  and binaries available at:    <a href="https://github.com/9ekaitz/solaris"
+      ><i class="source devicon-github"></i
+    ></a>
+  </p>
+</div></div>
+  <div class="project-aside">
+    <h3 class="project-aside-title">Technologies:</h3>
+    <i class="devicon-java"></i>
+    <i class="devicon-spring"></i>
+    <i class="devicon-jenkins"></i>
+    <i class="devicon-tomcat"></i>
+    <i class="devicon-nginx"></i>
+    <i class="devicon-javascript"></i>
+    <i class="devicon-html5"></i>
+    <i class="devicon-css3"></i>
+    <i class="devicon-figma"></i>
+    <i class="devicon-sass"></i>
+    <i class="devicon-postgresql"></i>
+    <i class="devicon-docker"></i>
+  </div>
+
+  <div class="project-content"><p>Solaris is an online platform for buying and managing solar panels. It is intended for businesses that want to sell their product while also providing additional services such as installation, maintenance, or monitoring. It's deployed as a web app and it has been designed with a mobile first approach to reach a wider audience.</p>
+<p>The project started as an idea to promote the use and adoption of renewable energy, specifically solar energy. From there, we decided to develop an online shop to purchase the products, a management area to easily make changes to the shop and the employees' accounts, a section with guidance for the employees that install the panels, and a dashboard for the end user to control and monitor their panels.</p>
+<p>We started by designing the UI and deciding how the content was to be organized. In order to create a design that meets the needs of our users, we analyzed the user requirements and performed some user testing with the first implementations of the design. After that, the design was changed to reflect the possible improvements observed during the testing.</p>
+<p>To ensure the code quality and optimize the productivity during development, a CI/CD server was deployed using Jenkins and Sonarqube. For the code version control, git was used with a remote repository on Github. Following the github flow branching strategy, we created a branch for each feature and opened a pull request when it was completed and ready to merge.</p>
+<h4>Web</h4>
+<p>The web app is developed using Spring, a java framework for web development. We take advantage of the MVC and thymeleaf integration to provide a dynamic site with server side template rendering. The data for the webpage and all the users is stored in a PostgreSQL database, the tables are matched in spring with JPA entitys.</p></div>
+  <div class="project-footer">
+    <abbr class="published" title="2022-04-25T18:00:00+02:00">
+Published: Mon 25 April 2022
+    </abbr>
+  </div>
+</article>  </section>
+</main>
+    <footer class="footer">
+      <div class="wrap">
+        <span
+          >Proudly powered by
+          <a class="pelican-link" href="https://getpelican.com">Pelican</a></span
+        >
+        <a href="https://codeberg.org/ekaitz/personal-web" class="web-source"
+          ><i class="devicon-codeberg"></i
+        ></a>
+      </div>
+    </footer>
+  </body>
+</html>

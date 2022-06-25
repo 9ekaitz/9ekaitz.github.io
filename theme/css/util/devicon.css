@@ -1,0 +1,951 @@
+[class^=devicon-],
+[class*=" devicon-"] {
+  display: block;
+}
+
+[class^=devicon-]::before,
+[class*=" devicon-"]::before {
+  display: inline-block;
+  height: 3rem;
+  width: 3rem;
+}
+
+.devicon-aarch64:before {
+  content: url("/theme/images/icons/aarch64/aarch64-original-dark.svg");
+}
+
+.devicon-adonisjs:before {
+  content: url("/theme/images/icons/adonisjs/adonisjs-original-dark.svg");
+}
+
+.devicon-aftereffects:before {
+  content: url("/theme/images/icons/aftereffects/aftereffects-original-dark.svg");
+}
+
+.devicon-amazonwebservices:before {
+  content: url("/theme/images/icons/amazonwebservices/amazonwebservices-original-dark.svg");
+}
+
+.devicon-android:before {
+  content: url("/theme/images/icons/android/android-original-dark.svg");
+}
+
+.devicon-angularjs:before {
+  content: url("/theme/images/icons/angularjs/angularjs-original-dark.svg");
+}
+
+.devicon-apache:before {
+  content: url("/theme/images/icons/apache/apache-original-dark.svg");
+}
+
+.devicon-apachekafka:before {
+  content: url("/theme/images/icons/apachekafka/apachekafka-original-dark.svg");
+}
+
+.devicon-appcelerator:before {
+  content: url("/theme/images/icons/appcelerator/appcelerator-original-dark.svg");
+}
+
+.devicon-apple:before {
+  content: url("/theme/images/icons/apple/apple-original-dark.svg");
+}
+
+.devicon-appwrite:before {
+  content: url("/theme/images/icons/appwrite/appwrite-original-dark.svg");
+}
+
+.devicon-arduino:before {
+  content: url("/theme/images/icons/arduino/arduino-original-dark.svg");
+}
+
+.devicon-atom:before {
+  content: url("/theme/images/icons/atom/atom-original-dark.svg");
+}
+
+.devicon-azure:before {
+  content: url("/theme/images/icons/azure/azure-original-dark.svg");
+}
+
+.devicon-babel:before {
+  content: url("/theme/images/icons/babel/babel-original-dark.svg");
+}
+
+.devicon-backbonejs:before {
+  content: url("/theme/images/icons/backbonejs/backbonejs-original-dark.svg");
+}
+
+.devicon-bash:before {
+  content: url("/theme/images/icons/bash/bash-original-dark.svg");
+}
+
+.devicon-behance:before {
+  content: url("/theme/images/icons/behance/behance-original-dark.svg");
+}
+
+.devicon-bitbucket:before {
+  content: url("/theme/images/icons/bitbucket/bitbucket-original-dark.svg");
+}
+
+.devicon-bootstrap:before {
+  content: url("/theme/images/icons/bootstrap/bootstrap-original-dark.svg");
+}
+
+.devicon-bower:before {
+  content: url("/theme/images/icons/bower/bower-original-dark.svg");
+}
+
+.devicon-bulma:before {
+  content: url("/theme/images/icons/bulma/bulma-original-dark.svg");
+}
+
+.devicon-c:before {
+  content: url("/theme/images/icons/c/c-original-dark.svg");
+}
+
+.devicon-cakephp:before {
+  content: url("/theme/images/icons/cakephp/cakephp-original-dark.svg");
+}
+
+.devicon-canva:before {
+  content: url("/theme/images/icons/canva/canva-original-dark.svg");
+}
+
+.devicon-centos:before {
+  content: url("/theme/images/icons/centos/centos-original-dark.svg");
+}
+
+.devicon-ceylon:before {
+  content: url("/theme/images/icons/ceylon/ceylon-original-dark.svg");
+}
+
+.devicon-chrome:before {
+  content: url("/theme/images/icons/chrome/chrome-original-dark.svg");
+}
+
+.devicon-circleci:before {
+  content: url("/theme/images/icons/circleci/circleci-original-dark.svg");
+}
+
+.devicon-clojure:before {
+  content: url("/theme/images/icons/clojure/clojure-original-dark.svg");
+}
+
+.devicon-clojurescript:before {
+  content: url("/theme/images/icons/clojurescript/clojurescript-original-dark.svg");
+}
+
+.devicon-codeberg:before {
+  content: url("/theme/images/icons/codeberg/codeberg-original-dark.svg");
+}
+
+.devicon-codecov:before {
+  content: url("/theme/images/icons/codecov/codecov-original-dark.svg");
+}
+
+.devicon-codeigniter:before {
+  content: url("/theme/images/icons/codeigniter/codeigniter-original-dark.svg");
+}
+
+.devicon-codepen:before {
+  content: url("/theme/images/icons/codepen/codepen-original-dark.svg");
+}
+
+.devicon-coffeescript:before {
+  content: url("/theme/images/icons/coffeescript/coffeescript-original-dark.svg");
+}
+
+.devicon-composer:before {
+  content: url("/theme/images/icons/composer/composer-original-dark.svg");
+}
+
+.devicon-confluence:before {
+  content: url("/theme/images/icons/confluence/confluence-original-dark.svg");
+}
+
+.devicon-couchdb:before {
+  content: url("/theme/images/icons/couchdb/couchdb-original-dark.svg");
+}
+
+.devicon-cplusplus:before {
+  content: url("/theme/images/icons/cplusplus/cplusplus-original-dark.svg");
+}
+
+.devicon-crystal:before {
+  content: url("/theme/images/icons/crystal/crystal-original-dark.svg");
+}
+
+.devicon-csharp:before {
+  content: url("/theme/images/icons/csharp/csharp-original-dark.svg");
+}
+
+.devicon-css3:before {
+  content: url("/theme/images/icons/css3/css3-original-dark.svg");
+}
+
+.devicon-cucumber:before {
+  content: url("/theme/images/icons/cucumber/cucumber-original-dark.svg");
+}
+
+.devicon-d3js:before {
+  content: url("/theme/images/icons/d3js/d3js-original-dark.svg");
+}
+
+.devicon-dart:before {
+  content: url("/theme/images/icons/dart/dart-original-dark.svg");
+}
+
+.devicon-debian:before {
+  content: url("/theme/images/icons/debian/debian-original-dark.svg");
+}
+
+.devicon-denojs:before {
+  content: url("/theme/images/icons/denojs/denojs-original-dark.svg");
+}
+
+.devicon-devicon:before {
+  content: url("/theme/images/icons/devicon/devicon-original-dark.svg");
+}
+
+.devicon-digitalocean:before {
+  content: url("/theme/images/icons/digitalocean/digitalocean-original-dark.svg");
+}
+
+.devicon-django:before {
+  content: url("/theme/images/icons/django/django-original-dark.svg");
+}
+
+.devicon-docker:before {
+  content: url("/theme/images/icons/docker/docker-original-dark.svg");
+}
+
+.devicon-doctrine:before {
+  content: url("/theme/images/icons/doctrine/doctrine-original-dark.svg");
+}
+
+.devicon-dot-net:before {
+  content: url("/theme/images/icons/dot-net/dot-net-original-dark.svg");
+}
+
+.devicon-dotnetcore:before {
+  content: url("/theme/images/icons/dotnetcore/dotnetcore-original-dark.svg");
+}
+
+.devicon-drupal:before {
+  content: url("/theme/images/icons/drupal/drupal-original-dark.svg");
+}
+
+.devicon-electron:before {
+  content: url("/theme/images/icons/electron/electron-original-dark.svg");
+}
+
+.devicon-eleventy:before {
+  content: url("/theme/images/icons/eleventy/eleventy-original-dark.svg");
+}
+
+.devicon-elixir:before {
+  content: url("/theme/images/icons/elixir/elixir-original-dark.svg");
+}
+
+.devicon-elm:before {
+  content: url("/theme/images/icons/elm/elm-original-dark.svg");
+}
+
+.devicon-embeddedc:before {
+  content: url("/theme/images/icons/embeddedc/embeddedc-original-dark.svg");
+}
+
+.devicon-ember:before {
+  content: url("/theme/images/icons/ember/ember-original-dark.svg");
+}
+
+.devicon-erlang:before {
+  content: url("/theme/images/icons/erlang/erlang-original-dark.svg");
+}
+
+.devicon-express:before {
+  content: url("/theme/images/icons/express/express-original-dark.svg");
+}
+
+.devicon-facebook:before {
+  content: url("/theme/images/icons/facebook/facebook-original-dark.svg");
+}
+
+.devicon-feathersjs:before {
+  content: url("/theme/images/icons/feathersjs/feathersjs-original-dark.svg");
+}
+
+.devicon-figma:before {
+  content: url("/theme/images/icons/figma/figma-original-dark.svg");
+}
+
+.devicon-filezilla:before {
+  content: url("/theme/images/icons/filezilla/filezilla-original-dark.svg");
+}
+
+.devicon-firebase:before {
+  content: url("/theme/images/icons/firebase/firebase-original-dark.svg");
+}
+
+.devicon-firefox:before {
+  content: url("/theme/images/icons/firefox/firefox-original-dark.svg");
+}
+
+.devicon-flask:before {
+  content: url("/theme/images/icons/flask/flask-original-dark.svg");
+}
+
+.devicon-flutter:before {
+  content: url("/theme/images/icons/flutter/flutter-original-dark.svg");
+}
+
+.devicon-foundation:before {
+  content: url("/theme/images/icons/foundation/foundation-original-dark.svg");
+}
+
+.devicon-fsharp:before {
+  content: url("/theme/images/icons/fsharp/fsharp-original-dark.svg");
+}
+
+.devicon-gatling:before {
+  content: url("/theme/images/icons/gatling/gatling-original-dark.svg");
+}
+
+.devicon-gatsby:before {
+  content: url("/theme/images/icons/gatsby/gatsby-original-dark.svg");
+}
+
+.devicon-gcc:before {
+  content: url("/theme/images/icons/gcc/gcc-original-dark.svg");
+}
+
+.devicon-gimp:before {
+  content: url("/theme/images/icons/gimp/gimp-original-dark.svg");
+}
+
+.devicon-git:before {
+  content: url("/theme/images/icons/git/git-original-dark.svg");
+}
+
+.devicon-github:before {
+  content: url("/theme/images/icons/github/github-original-dark.svg");
+}
+
+.devicon-gitlab:before {
+  content: url("/theme/images/icons/gitlab/gitlab-original-dark.svg");
+}
+
+.devicon-gitter:before {
+  content: url("/theme/images/icons/gitter/gitter-original-dark.svg");
+}
+
+.devicon-go:before {
+  content: url("/theme/images/icons/go/go-original-dark.svg");
+}
+
+.devicon-godot:before {
+  content: url("/theme/images/icons/godot/godot-original-dark.svg");
+}
+
+.devicon-google:before {
+  content: url("/theme/images/icons/google/google-original-dark.svg");
+}
+
+.devicon-googlecloud:before {
+  content: url("/theme/images/icons/googlecloud/googlecloud-original-dark.svg");
+}
+
+.devicon-gradle:before {
+  content: url("/theme/images/icons/gradle/gradle-original-dark.svg");
+}
+
+.devicon-grails:before {
+  content: url("/theme/images/icons/grails/grails-original-dark.svg");
+}
+
+.devicon-graphql:before {
+  content: url("/theme/images/icons/graphql/graphql-original-dark.svg");
+}
+
+.devicon-groovy:before {
+  content: url("/theme/images/icons/groovy/groovy-original-dark.svg");
+}
+
+.devicon-grunt:before {
+  content: url("/theme/images/icons/grunt/grunt-original-dark.svg");
+}
+
+.devicon-gulp:before {
+  content: url("/theme/images/icons/gulp/gulp-original-dark.svg");
+}
+
+.devicon-handlebars:before {
+  content: url("/theme/images/icons/handlebars/handlebars-original-dark.svg");
+}
+
+.devicon-haskell:before {
+  content: url("/theme/images/icons/haskell/haskell-original-dark.svg");
+}
+
+.devicon-haxe:before {
+  content: url("/theme/images/icons/haxe/haxe-original-dark.svg");
+}
+
+.devicon-heroku:before {
+  content: url("/theme/images/icons/heroku/heroku-original-dark.svg");
+}
+
+.devicon-html5:before {
+  content: url("/theme/images/icons/html5/html5-original-dark.svg");
+}
+
+.devicon-ie10:before {
+  content: url("/theme/images/icons/ie10/ie10-original-dark.svg");
+}
+
+.devicon-illustrator:before {
+  content: url("/theme/images/icons/illustrator/illustrator-original-dark.svg");
+}
+
+.devicon-inkscape:before {
+  content: url("/theme/images/icons/inkscape/inkscape-original-dark.svg");
+}
+
+.devicon-intellij:before {
+  content: url("/theme/images/icons/intellij/intellij-original-dark.svg");
+}
+
+.devicon-ionic:before {
+  content: url("/theme/images/icons/ionic/ionic-original-dark.svg");
+}
+
+.devicon-jamstack:before {
+  content: url("/theme/images/icons/jamstack/jamstack-original-dark.svg");
+}
+
+.devicon-jasmine:before {
+  content: url("/theme/images/icons/jasmine/jasmine-original-dark.svg");
+}
+
+.devicon-java:before {
+  content: url("/theme/images/icons/java/java-original-dark.svg");
+}
+
+.devicon-javascript:before {
+  content: url("/theme/images/icons/javascript/javascript-original-dark.svg");
+}
+
+.devicon-jeet:before {
+  content: url("/theme/images/icons/jeet/jeet-original-dark.svg");
+}
+
+.devicon-jenkins:before {
+  content: url("/theme/images/icons/jenkins/jenkins-original-dark.svg");
+}
+
+.devicon-jest:before {
+  content: url("/theme/images/icons/jest/jest-original-dark.svg");
+}
+
+.devicon-jetbrains:before {
+  content: url("/theme/images/icons/jetbrains/jetbrains-original-dark.svg");
+}
+
+.devicon-jira:before {
+  content: url("/theme/images/icons/jira/jira-original-dark.svg");
+}
+
+.devicon-jquery:before {
+  content: url("/theme/images/icons/jquery/jquery-original-dark.svg");
+}
+
+.devicon-julia:before {
+  content: url("/theme/images/icons/julia/julia-original-dark.svg");
+}
+
+.devicon-jupyter:before {
+  content: url("/theme/images/icons/jupyter/jupyter-original-dark.svg");
+}
+
+.devicon-karma:before {
+  content: url("/theme/images/icons/karma/karma-original-dark.svg");
+}
+
+.devicon-knockout:before {
+  content: url("/theme/images/icons/knockout/knockout-original-dark.svg");
+}
+
+.devicon-kotlin:before {
+  content: url("/theme/images/icons/kotlin/kotlin-original-dark.svg");
+}
+
+.devicon-krakenjs:before {
+  content: url("/theme/images/icons/krakenjs/krakenjs-original-dark.svg");
+}
+
+.devicon-kubernetes:before {
+  content: url("/theme/images/icons/kubernetes/kubernetes-original-dark.svg");
+}
+
+.devicon-labview:before {
+  content: url("/theme/images/icons/labview/labview-original-dark.svg");
+}
+
+.devicon-laravel:before {
+  content: url("/theme/images/icons/laravel/laravel-original-dark.svg");
+}
+
+.devicon-less:before {
+  content: url("/theme/images/icons/less/less-original-dark.svg");
+}
+
+.devicon-linkedin:before {
+  content: url("/theme/images/icons/linkedin/linkedin-original-dark.svg");
+}
+
+.devicon-linux:before {
+  content: url("/theme/images/icons/linux/linux-original-dark.svg");
+}
+
+.devicon-lua:before {
+  content: url("/theme/images/icons/lua/lua-original-dark.svg");
+}
+
+.devicon-magento:before {
+  content: url("/theme/images/icons/magento/magento-original-dark.svg");
+}
+
+.devicon-markdown:before {
+  content: url("/theme/images/icons/markdown/markdown-original-dark.svg");
+}
+
+.devicon-materialui:before {
+  content: url("/theme/images/icons/materialui/materialui-original-dark.svg");
+}
+
+.devicon-matlab:before {
+  content: url("/theme/images/icons/matlab/matlab-original-dark.svg");
+}
+
+.devicon-meteor:before {
+  content: url("/theme/images/icons/meteor/meteor-original-dark.svg");
+}
+
+.devicon-microsoftsqlserver:before {
+  content: url("/theme/images/icons/microsoftsqlserver/microsoftsqlserver-original-dark.svg");
+}
+
+.devicon-minitab:before {
+  content: url("/theme/images/icons/minitab/minitab-original-dark.svg");
+}
+
+.devicon-mocha:before {
+  content: url("/theme/images/icons/mocha/mocha-original-dark.svg");
+}
+
+.devicon-modx:before {
+  content: url("/theme/images/icons/modx/modx-original-dark.svg");
+}
+
+.devicon-mongodb:before {
+  content: url("/theme/images/icons/mongodb/mongodb-original-dark.svg");
+}
+
+.devicon-moodle:before {
+  content: url("/theme/images/icons/moodle/moodle-original-dark.svg");
+}
+
+.devicon-msdos:before {
+  content: url("/theme/images/icons/msdos/msdos-original-dark.svg");
+}
+
+.devicon-mysql:before {
+  content: url("/theme/images/icons/mysql/mysql-original-dark.svg");
+}
+
+.devicon-neo4j:before {
+  content: url("/theme/images/icons/neo4j/neo4j-original-dark.svg");
+}
+
+.devicon-nestjs:before {
+  content: url("/theme/images/icons/nestjs/nestjs-original-dark.svg");
+}
+
+.devicon-nextjs:before {
+  content: url("/theme/images/icons/nextjs/nextjs-original-dark.svg");
+}
+
+.devicon-nginx:before {
+  content: url("/theme/images/icons/nginx/nginx-original-dark.svg");
+}
+
+.devicon-nixos:before {
+  content: url("/theme/images/icons/nixos/nixos-original-dark.svg");
+}
+
+.devicon-nodejs:before {
+  content: url("/theme/images/icons/nodejs/nodejs-original-dark.svg");
+}
+
+.devicon-nodewebkit:before {
+  content: url("/theme/images/icons/nodewebkit/nodewebkit-original-dark.svg");
+}
+
+.devicon-npm:before {
+  content: url("/theme/images/icons/npm/npm-original-dark.svg");
+}
+
+.devicon-numpy:before {
+  content: url("/theme/images/icons/numpy/numpy-original-dark.svg");
+}
+
+.devicon-nuxtjs:before {
+  content: url("/theme/images/icons/nuxtjs/nuxtjs-original-dark.svg");
+}
+
+.devicon-objectivec:before {
+  content: url("/theme/images/icons/objectivec/objectivec-original-dark.svg");
+}
+
+.devicon-ocaml:before {
+  content: url("/theme/images/icons/ocaml/ocaml-original-dark.svg");
+}
+
+.devicon-opengl:before {
+  content: url("/theme/images/icons/opengl/opengl-original-dark.svg");
+}
+
+.devicon-opera:before {
+  content: url("/theme/images/icons/opera/opera-original-dark.svg");
+}
+
+.devicon-oracle:before {
+  content: url("/theme/images/icons/oracle/oracle-original-dark.svg");
+}
+
+.devicon-pandas:before {
+  content: url("/theme/images/icons/pandas/pandas-original-dark.svg");
+}
+
+.devicon-perl:before {
+  content: url("/theme/images/icons/perl/perl-original-dark.svg");
+}
+
+.devicon-phalcon:before {
+  content: url("/theme/images/icons/phalcon/phalcon-original-dark.svg");
+}
+
+.devicon-phoenix:before {
+  content: url("/theme/images/icons/phoenix/phoenix-original-dark.svg");
+}
+
+.devicon-photoshop:before {
+  content: url("/theme/images/icons/photoshop/photoshop-original-dark.svg");
+}
+
+.devicon-php:before {
+  content: url("/theme/images/icons/php/php-original-dark.svg");
+}
+
+.devicon-phpstorm:before {
+  content: url("/theme/images/icons/phpstorm/phpstorm-original-dark.svg");
+}
+
+.devicon-postgresql:before {
+  content: url("/theme/images/icons/postgresql/postgresql-original-dark.svg");
+}
+
+.devicon-premierepro:before {
+  content: url("/theme/images/icons/premierepro/premierepro-original-dark.svg");
+}
+
+.devicon-processing:before {
+  content: url("/theme/images/icons/processing/processing-original-dark.svg");
+}
+
+.devicon-protractor:before {
+  content: url("/theme/images/icons/protractor/protractor-original-dark.svg");
+}
+
+.devicon-putty:before {
+  content: url("/theme/images/icons/putty/putty-original-dark.svg");
+}
+
+.devicon-pycharm:before {
+  content: url("/theme/images/icons/pycharm/pycharm-original-dark.svg");
+}
+
+.devicon-python:before {
+  content: url("/theme/images/icons/python/python-original-dark.svg");
+}
+
+.devicon-qt:before {
+  content: url("/theme/images/icons/qt/qt-original-dark.svg");
+}
+
+.devicon-r:before {
+  content: url("/theme/images/icons/r/r-original-dark.svg");
+}
+
+.devicon-rails:before {
+  content: url("/theme/images/icons/rails/rails-original-dark.svg");
+}
+
+.devicon-raspberrypi:before {
+  content: url("/theme/images/icons/raspberrypi/raspberrypi-original-dark.svg");
+}
+
+.devicon-react:before {
+  content: url("/theme/images/icons/react/react-original-dark.svg");
+}
+
+.devicon-redhat:before {
+  content: url("/theme/images/icons/redhat/redhat-original-dark.svg");
+}
+
+.devicon-redis:before {
+  content: url("/theme/images/icons/redis/redis-original-dark.svg");
+}
+
+.devicon-redux:before {
+  content: url("/theme/images/icons/redux/redux-original-dark.svg");
+}
+
+.devicon-rocksdb:before {
+  content: url("/theme/images/icons/rocksdb/rocksdb-original-dark.svg");
+}
+
+.devicon-rstudio:before {
+  content: url("/theme/images/icons/rstudio/rstudio-original-dark.svg");
+}
+
+.devicon-ruby:before {
+  content: url("/theme/images/icons/ruby/ruby-original-dark.svg");
+}
+
+.devicon-rubymine:before {
+  content: url("/theme/images/icons/rubymine/rubymine-original-dark.svg");
+}
+
+.devicon-rust:before {
+  content: url("/theme/images/icons/rust/rust-original-dark.svg");
+}
+
+.devicon-safari:before {
+  content: url("/theme/images/icons/safari/safari-original-dark.svg");
+}
+
+.devicon-salesforce:before {
+  content: url("/theme/images/icons/salesforce/salesforce-original-dark.svg");
+}
+
+.devicon-sass:before {
+  content: url("/theme/images/icons/sass/sass-original-dark.svg");
+}
+
+.devicon-scala:before {
+  content: url("/theme/images/icons/scala/scala-original-dark.svg");
+}
+
+.devicon-sdl::before {
+  content: url("/theme/images/icons/sdl/sdl-original-dark.svg");
+}
+
+.devicon-sequelize:before {
+  content: url("/theme/images/icons/sequelize/sequelize-original-dark.svg");
+}
+
+.devicon-shopware:before {
+  content: url("/theme/images/icons/shopware/shopware-original-dark.svg");
+}
+
+.devicon-sketch:before {
+  content: url("/theme/images/icons/sketch/sketch-original-dark.svg");
+}
+
+.devicon-slack:before {
+  content: url("/theme/images/icons/slack/slack-original-dark.svg");
+}
+
+.devicon-socketio:before {
+  content: url("/theme/images/icons/socketio/socketio-original-dark.svg");
+}
+
+.devicon-sourcetree:before {
+  content: url("/theme/images/icons/sourcetree/sourcetree-original-dark.svg");
+}
+
+.devicon-spring:before {
+  content: url("/theme/images/icons/spring/spring-original-dark.svg");
+}
+
+.devicon-spss:before {
+  content: url("/theme/images/icons/spss/spss-original-dark.svg");
+}
+
+.devicon-sqlalchemy:before {
+  content: url("/theme/images/icons/sqlalchemy/sqlalchemy-original-dark.svg");
+}
+
+.devicon-ssh:before {
+  content: url("/theme/images/icons/ssh/ssh-original-dark.svg");
+}
+
+.devicon-storybook:before {
+  content: url("/theme/images/icons/storybook/storybook-original-dark.svg");
+}
+
+.devicon-stylus:before {
+  content: url("/theme/images/icons/stylus/stylus-original-dark.svg");
+}
+
+.devicon-subversion:before {
+  content: url("/theme/images/icons/subversion/subversion-original-dark.svg");
+}
+
+.devicon-svelte:before {
+  content: url("/theme/images/icons/svelte/svelte-original-dark.svg");
+}
+
+.devicon-swift:before {
+  content: url("/theme/images/icons/swift/swift-original-dark.svg");
+}
+
+.devicon-symfony:before {
+  content: url("/theme/images/icons/symfony/symfony-original-dark.svg");
+}
+
+.devicon-tailwindcss:before {
+  content: url("/theme/images/icons/tailwindcss/tailwindcss-original-dark.svg");
+}
+
+.devicon-tensorflow:before {
+  content: url("/theme/images/icons/tensorflow/tensorflow-original-dark.svg");
+}
+
+.devicon-thealgorithms:before {
+  content: url("/theme/images/icons/thealgorithms/thealgorithms-original-dark.svg");
+}
+
+.devicon-threejs:before {
+  content: url("/theme/images/icons/threejs/threejs-original-dark.svg");
+}
+
+.devicon-tomcat:before {
+  content: url("/theme/images/icons/tomcat/tomcat-original-dark.svg");
+}
+
+.devicon-tortoisegit:before {
+  content: url("/theme/images/icons/tortoisegit/tortoisegit-original-dark.svg");
+}
+
+.devicon-towergit:before {
+  content: url("/theme/images/icons/towergit/towergit-original-dark.svg");
+}
+
+.devicon-travis:before {
+  content: url("/theme/images/icons/travis/travis-original-dark.svg");
+}
+
+.devicon-trello:before {
+  content: url("/theme/images/icons/trello/trello-original-dark.svg");
+}
+
+.devicon-twitter:before {
+  content: url("/theme/images/icons/twitter/twitter-original-dark.svg");
+}
+
+.devicon-typescript:before {
+  content: url("/theme/images/icons/typescript/typescript-original-dark.svg");
+}
+
+.devicon-typo3:before {
+  content: url("/theme/images/icons/typo3/typo3-original-dark.svg");
+}
+
+.devicon-ubuntu:before {
+  content: url("/theme/images/icons/ubuntu/ubuntu-original-dark.svg");
+}
+
+.devicon-unity:before {
+  content: url("/theme/images/icons/unity/unity-original-dark.svg");
+}
+
+.devicon-unix:before {
+  content: url("/theme/images/icons/unix/unix-original-dark.svg");
+}
+
+.devicon-uwsgi:before {
+  content: url("/theme/images/icons/uwsgi/uwsgi-original-dark.svg");
+}
+
+.devicon-vagrant:before {
+  content: url("/theme/images/icons/vagrant/vagrant-original-dark.svg");
+}
+
+.devicon-vim:before {
+  content: url("/theme/images/icons/vim/vim-original-dark.svg");
+}
+
+.devicon-visualstudio:before {
+  content: url("/theme/images/icons/visualstudio/visualstudio-original-dark.svg");
+}
+
+.devicon-vscode:before {
+  content: url("/theme/images/icons/vscode/vscode-original-dark.svg");
+}
+
+.devicon-vuejs:before {
+  content: url("/theme/images/icons/vuejs/vuejs-original-dark.svg");
+}
+
+.devicon-vuestorefront:before {
+  content: url("/theme/images/icons/vuestorefront/vuestorefront-original-dark.svg");
+}
+
+.devicon-weblate:before {
+  content: url("/theme/images/icons/weblate/weblate-original-dark.svg");
+}
+
+.devicon-webpack:before {
+  content: url("/theme/images/icons/webpack/webpack-original-dark.svg");
+}
+
+.devicon-webstorm:before {
+  content: url("/theme/images/icons/webstorm/webstorm-original-dark.svg");
+}
+
+.devicon-windows8:before {
+  content: url("/theme/images/icons/windows8/windows8-original-dark.svg");
+}
+
+.devicon-woocommerce:before {
+  content: url("/theme/images/icons/woocommerce/woocommerce-original-dark.svg");
+}
+
+.devicon-wordpress:before {
+  content: url("/theme/images/icons/wordpress/wordpress-original-dark.svg");
+}
+
+.devicon-xd:before {
+  content: url("/theme/images/icons/xd/xd-original-dark.svg");
+}
+
+.devicon-yarn:before {
+  content: url("/theme/images/icons/yarn/yarn-original-dark.svg");
+}
+
+.devicon-yii:before {
+  content: url("/theme/images/icons/yii/yii-original-dark.svg");
+}
+
+.devicon-yunohost:before {
+  content: url("/theme/images/icons/yunohost/yunohost-original-dark.svg");
+}
+
+.devicon-zend:before {
+  content: url("/theme/images/icons/zend/zend-original-dark.svg");
+}
+
+.devicon-zig:before {
+  content: url("/theme/images/icons/zig/zig-original-dark.svg");
+}/*# sourceMappingURL=devicon.css.map */

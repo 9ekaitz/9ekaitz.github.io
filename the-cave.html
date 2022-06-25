@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+     <title>9ekaitz - The Cave</title>
+    <meta charset="utf-8" />
+    <meta name="generator" content="Pelican" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/x-icon" href="/theme/images/icon.png" />
+    <link rel="stylesheet" href="/theme/css/util/spectral.css" />
+    <link rel="stylesheet" href="/theme/css/main.css" />
+        
+<link rel="stylesheet" href="/theme/css/util/devicon.css" />  
+<link rel="stylesheet" href="/theme/css/module/project.css" />
+<link rel="stylesheet" href="/theme/css/module/project_info.css" />
+      <link rel="alternate" hreflang="eu" href="http://127.0.0.1:8000/eu/the-cave.html">
+   <meta name="tags" content="pbl" />
+<meta name="tags" content="team-work" />
+   </head>
+
+  <body id="index" class="home">
+    <nav class="main-nav">
+      <div class="wrap">
+        <div class="nav-left">
+          <div class="web-logo-wrapper">
+            <a href="http://127.0.0.1:8000" class="nav-item web-logo"
+              ><img class="logo" src="/theme/images/logo.svg" />
+              <p class="name"><span class="decoration">9</span>ekaitz</p></a
+            >
+            <label for="toggle-checkbox" id="nav-toggle"
+              ><svg id="toggle-icon-menu" viewBox="0 0 24 24">
+                <path
+                  fill="currentColor"
+                  d="M3,6H21V8H3V6M3,11H21V13H3V11M3,16H21V18H3V16Z"
+                /></svg
+            ></label>
+          </div>
+          <input
+            id="toggle-checkbox"
+            class="toggle-checkbox"
+            type="checkbox"
+            checked
+          />
+          <a href="http://127.0.0.1:8000/parking" class="nav-item"
+            ><span class="nav-item-content"
+              > PROJECTS </span
+            ></a
+          >
+          <a href="http://127.0.0.1:8000/parking" class="nav-item"
+            ><span class="nav-item-content"
+              >ARTICLES</span
+            ></a
+          >
+          <a href="http://127.0.0.1:8000/parking" class="nav-item"
+            ><span class="nav-item-content"
+              >ABOUT</span
+            ></a
+          >
+          <div class="nav-item lang-selector">
+            <span class="nav-item-content">
+              <a
+                href="http://127.0.0.1:8000/the-cave.html"
+                class="lang left current"
+                ><span>en</span></a
+              ><a
+                href="http://127.0.0.1:8000/eu/the-cave.html"
+                class="lang right "
+                ><span>eu</span></a
+              >
+            </span>
+          </div>
+        </div>
+      </div>
+    </nav>
+<main class="main wrap">
+  <div class="helper">
+    <a href="/">Home</a> > <a href="/category/project">Projects</a> >
+    <a href="">The Cave</a>
+  </div>
+  <section class="container">
+    <h2 class="container-title">
+      <a href="http://127.0.0.1:8000/the-cave.html">The Cave</a>
+    </h2>
+<article class="project">
+  <img class="project-icon" src="/images/theCave.png" />
+  <div class="info-header">  <div class="info-summary"><p>A retro style platform game developed using C and the SDL library</p></div>
+
+  <div class="metadata">
+  <address class="vcard author">
+    By     <a class="url fn" href="http://127.0.0.1:8000/author/9ekaitz.html"
+      >9ekaitz</a
+    >
+  </address>
+  <p>
+Category: 
+    <a href="http://127.0.0.1:8000/category/project.html"
+      >Project</a
+    >.
+  </p>
+  <p>
+Tags: <a
+      href="http://127.0.0.1:8000/tag/pbl.html"
+      >pbl</a
+    >
+<a
+      href="http://127.0.0.1:8000/tag/team-work.html"
+      >team-work</a
+    >
+  </p>
+  <p class="source-info">
+Source code  and binaries available at:    <a href="https://github.com/inakiAramburu/PBL-Jokoa"
+      ><i class="source devicon-github"></i
+    ></a>
+  </p>
+</div></div>
+  <div class="project-aside">
+    <h3 class="project-aside-title">Technologies:</h3>
+    <i class="devicon-c"></i>
+    <i class="devicon-sdl"></i>
+  </div>
+
+  <div class="project-content"><p>The Cave is a small platform game developed in C using the Direct Media Layer library. It has a retro-like style and is composed of 5 playable levels in which the player has to jump through the platforms and kill or avoid the different enemies in order to get to the next level. The player can use w, a, s, d and space to control the character movement, and k to attack. In each level, there can also be some dangers such as spikes that will make the gameplay more challenging.</p>
+<p>When the game is launched for the first time a menu appears on the screen, there are some options such as Play, Controls and Credits. Controls show all the keys and functionalities that can be used during the game. If the user clicks on play, a short scene will appear after which the game will start from the first level.</p>
+<p>This game is the first project we developed in the Computer Engineering degree. It's written using the C language, was developed in one month and is the first real program we coded in C apart from the learning exercises. It also was the first project in which we used a code version control system (Git) and a remote repository for code sharing (Github).</p>
+<p>The focus of the project was to develop a graphical application using SDL in C, we decided to create a game because in the team we all enjoy playing them. The game also has sounds and background music thanks to the SDL_mixer library.</p>
+<p>In the final week of the development, we decided to challenge ourselves and try to implement some multiplayer functionality, as the application was already in an advanced stage and implementing multiplayer in the base game would require a lot of changes and re-thinking, we decided to create a mini-game with the multiplayer in it. In honor of one of the first and more popular video games, Pong, we decided to create a Pong version with online multiplayer. The implementation of the multiplayer was done using the SDL_net library and required one of the players to act as the server, and the other one to connect to it. The mini-game was included in the final product as an Easter Egg. When pressing any of the "Pong" characters' keys a sound of the game was emitted, if all the keys were introduced in the correct order the mini-game launches prompting the user to choose between the local multiplayer and the online one.</p></div>
+  <div class="project-footer">
+    <abbr class="published" title="2022-02-15T18:00:00+01:00">
+Published: Tue 15 February 2022
+    </abbr>
+  </div>
+</article>  </section>
+</main>
+    <footer class="footer">
+      <div class="wrap">
+        <span
+          >Proudly powered by
+          <a class="pelican-link" href="https://getpelican.com">Pelican</a></span
+        >
+        <a href="https://codeberg.org/ekaitz/personal-web" class="web-source"
+          ><i class="devicon-codeberg"></i
+        ></a>
+      </div>
+    </footer>
+  </body>
+</html>

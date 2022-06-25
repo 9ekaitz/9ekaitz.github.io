@@ -1,0 +1,58 @@
+.project {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  align-items: center;
+}
+.project .project-icon {
+  margin-right: 2rem;
+  width: 15rem;
+}
+.project .project-aside {
+  color: rgba(255, 255, 255, 0.6);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  align-items: center;
+  height: -webkit-fit-content;
+  height: -moz-fit-content;
+  height: fit-content;
+  padding-left: 1rem;
+  border-left: 2px solid rgba(255, 255, 255, 0.0509803922);
+}
+.project .project-aside .project-aside-title {
+  font-weight: lighter;
+  margin-block: 0.5rem;
+}
+.project .project-content {
+  color: rgba(255, 255, 255, 0.6);
+  text-align: justify;
+}
+.project .project-footer {
+  text-align: right;
+  color: rgba(255, 255, 255, 0.6);
+}
+
+@media screen and (min-width: 768px) {
+  .project {
+    display: grid;
+    grid-template-columns: 1fr auto 1fr;
+    gap: 2rem;
+    align-items: center;
+  }
+  .project .project-aside {
+    grid-row: span 2;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    align-self: start;
+  }
+  .project .project-aside .project-aside-title {
+    grid-column: span 3;
+  }
+  .project .project-content {
+    grid-column: span 2;
+  }
+  .project .project-footer {
+    grid-column: span 3;
+  }
+}/*# sourceMappingURL=project.css.map */

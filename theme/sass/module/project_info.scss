@@ -1,0 +1,29 @@
+@import "../util/variables.scss";
+
+.info-header {
+  color: $text-low;
+}
+
+.info-summary {
+  color: $text-high;
+  font-size: 1.5rem;
+}
+
+a {
+  color: $main-color;
+}
+
+.source {
+  font-weight: lighter;
+  display: inline-block;
+  margin-left: 0.3rem;
+}
+
+.source-info {
+  display: flex;
+}
+
+.source::before {
+  width: 1.5rem;
+  height: 1.5rem;
+}
