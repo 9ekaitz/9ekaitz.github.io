@@ -1,12 +1,13 @@
 [class^="devicon-"],
 [class*=" devicon-"] {
   display: block;
+  // height: 3rem;
 }
 
 [class^="devicon-"]::before,
 [class*=" devicon-"]::before {
-  display: inline-block;
-  height: 3rem;
+  display: flex;
+  // height: 3rem;
   width: 3rem;
 }
 

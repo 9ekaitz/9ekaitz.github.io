@@ -13,6 +13,9 @@ body {
   margin: 0;
   width: 100%;
   background-color: #121212;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
 }
 
 a {
@@ -115,7 +118,7 @@ a {
   text-decoration: none;
 }
 .main-nav .nav-left .lang-selector .lang:hover {
-  background: rgba(161, 224, 157, 0.4);
+  background: rgba(161, 224, 157, 0.04);
   cursor: pointer;
 }
 .main-nav .nav-left .lang-selector .lang.current {
@@ -182,7 +185,7 @@ a {
   max-width: 1000px;
   margin: 0 var(--inline-margin);
 }
-@media screen and (min-width: calc(1000px + 4rem)) {
+@media screen and (min-width: 1064px) {
   .wrap {
     margin: auto;
   }
@@ -190,6 +193,12 @@ a {
 
 .main {
   margin-block: 2rem;
+  flex-grow: 1;
+}
+@media screen and (min-width: 1064px) {
+  .main {
+    width: 100%;
+  }
 }
 
 .container {
@@ -241,6 +250,7 @@ a {
   text-decoration: none;
   font-weight: bold;
 }
-.footer .devicon-codeberg {
+.footer .devicon-codeberg, .footer .devicon-codeberg::before {
   width: 2.5rem;
+  height: 2.5rem;
 }/*# sourceMappingURL=main.css.map */

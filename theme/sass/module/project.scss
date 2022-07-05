@@ -16,7 +16,7 @@
     display: flex;
     // grid-template-columns: repeat(3, 1fr);
     flex-wrap: wrap;
-    gap: 4px;
+    gap: 0.5rem;
     align-items: center;
     height: fit-content;
     padding-left: 1rem;
@@ -46,38 +46,22 @@
     gap: 2rem;
     align-items: center;
 
-    .project-icon {
-      // margin-right: 2rem;
-      // width: 15rem;
-    }
-
     .project-aside {
-      // color: $text-low;
       grid-row: span 2;
       display: grid;
       grid-template-columns: repeat(3, 1fr);
-      // gap: 4px;
-      // height: fit-content;
-      // padding-left: 1rem;
-      // border-left: 2px solid #ffffff0d;
       align-self: start;
       .project-aside-title {
         grid-column: span 3;
-        // font-weight: lighter;
-        // margin-block: 0.5rem;
       }
     }
 
     .project-content {
-      // color: $text-low;
       grid-column: span 2;
-      // text-align: justify;
     }
 
     .project-footer {
       grid-column: span 3;
-      // text-align: right;
-      // color: $text-low;
     }
   }
 }

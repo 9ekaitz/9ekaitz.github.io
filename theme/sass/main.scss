@@ -13,6 +13,9 @@ body {
   margin: 0;
   width: 100%;
   background-color: $background-color;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
 }
 
 a {
@@ -116,7 +119,7 @@ a {
         border: 1px solid #ffffff4d;
         text-decoration: none;
         &:hover {
-          background: rgba($main-color, .4);
+          background: rgba($main-color, .04);
           cursor: pointer;
         }
         &.current {
@@ -187,13 +190,17 @@ a {
   max-width: 1000px;
   margin: 0 var(--inline-margin);
 
-  @media screen and (min-width: calc(1000px + 4rem)) {
+  @media screen and (min-width: calc(1000px + $media-query-offset)) {
     margin: auto;
   }
 }
 
 .main {
   margin-block: 2rem;
+  flex-grow: 1;
+  @media screen and (min-width: calc(1000px + $media-query-offset)) {
+    width: 100%;
+  }
 }
 
 .container {
@@ -245,7 +252,8 @@ a {
     text-decoration: none;
     font-weight: bold;
   }
-  .devicon-codeberg {
+  .devicon-codeberg, .devicon-codeberg::before {
     width: 2.5rem;
+    height: 2.5rem;
   }
 }

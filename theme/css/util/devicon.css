@@ -5,8 +5,7 @@
 
 [class^=devicon-]::before,
 [class*=" devicon-"]::before {
-  display: inline-block;
-  height: 3rem;
+  display: flex;
   width: 3rem;
 }
 

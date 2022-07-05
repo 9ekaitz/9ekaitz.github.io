@@ -3,3 +3,5 @@ $main-color: #a1e09d;
 $text-high: #ffffffde;
 $nav-color: #272727;
 $text-low: #ffffff99;
+
+$media-query-offset: 64px; //Can't use rem directly in calc() because only firefox supports mixed units in the calc

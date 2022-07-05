@@ -7,21 +7,27 @@
   font-size: 1.5rem;
 }
 
-a {
-  color: #a1e09d;
-}
-
-.source {
-  font-weight: lighter;
-  display: inline-block;
-  margin-left: 0.3rem;
-}
-
 .source-info {
   display: flex;
+  align-items: center;
+  gap: 0.3rem;
+  flex-wrap: wrap;
 }
-
-.source::before {
+.source-info .source-link {
+  display: flex;
+  align-items: center;
+  gap: 0.3rem;
+  text-decoration: none;
+}
+.source-info .source-link [class^=devicon-] {
+  font-weight: lighter;
+  display: inline-block;
+  height: 1.5rem;
+}
+.source-info .source-link [class^=devicon-]::before {
   width: 1.5rem;
   height: 1.5rem;
+}
+.source-info .source-link:hover {
+  text-decoration: underline;
 }/*# sourceMappingURL=project_info.css.map */
